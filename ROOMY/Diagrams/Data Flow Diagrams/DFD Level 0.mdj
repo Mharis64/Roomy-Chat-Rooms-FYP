@@ -55,11 +55,11 @@
 										"$ref": "AAAAAAGP6g9+/0IQ9HA="
 									},
 									"font": "Arial;13;0",
-									"left": 562,
-									"top": 208,
-									"width": 77,
-									"height": 13,
-									"text": "Roomy App",
+									"left": 570,
+									"top": 288,
+									"width": 101,
+									"height": 26,
+									"text": "<<System>> RoomyApp",
 									"wordWrap": true
 								},
 								{
@@ -69,17 +69,17 @@
 										"$ref": "AAAAAAGP6g9+/0IQ9HA="
 									},
 									"font": "Arial;13;0",
-									"left": 562,
-									"top": 181,
-									"width": 77,
+									"left": 570,
+									"top": 261,
+									"width": 101,
 									"height": 13,
 									"text": "1"
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 552,
-							"top": 176,
-							"width": 97,
+							"left": 560,
+							"top": 256,
+							"width": 121,
 							"height": 82,
 							"nameLabel": {
 								"$ref": "AAAAAAGP6g9+/0IRGEs="
@@ -100,13 +100,37 @@
 							"subViews": [
 								{
 									"_type": "LabelView",
+									"_id": "AAAAAAGS3Qh2H3irOCw=",
+									"_parent": {
+										"$ref": "AAAAAAGP6g+WA0Ibi4g="
+									},
+									"font": "Arial;13;0",
+									"left": 162,
+									"top": 269,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGS3NZVMtk6CP4=",
+									"_parent": {
+										"$ref": "AAAAAAGP6g+WA0Ibi4g="
+									},
+									"font": "Arial;13;0",
+									"left": 162,
+									"top": 269,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
 									"_id": "AAAAAAGQQ84zvg5GaYU=",
 									"_parent": {
 										"$ref": "AAAAAAGP6g+WA0Ibi4g="
 									},
 									"font": "Arial;13;0",
 									"left": 162,
-									"top": 181,
+									"top": 269,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -118,7 +142,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 162,
-									"top": 181,
+									"top": 269,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -130,7 +154,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 122,
-									"top": 365,
+									"top": 453,
 									"width": 87.4326171875,
 									"height": 13
 								},
@@ -142,10 +166,10 @@
 									},
 									"font": "Arial;13;0",
 									"left": 162,
-									"top": 186,
+									"top": 274,
 									"width": 87.4326171875,
-									"height": 13,
-									"text": "User",
+									"height": 26,
+									"text": "<<Actor>> User",
 									"wordWrap": true
 								},
 								{
@@ -156,13 +180,13 @@
 									},
 									"font": "Arial;13;0",
 									"left": -40,
-									"top": 176,
+									"top": 264,
 									"height": 13
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 152,
-							"top": 176,
+							"top": 264,
 							"width": 107.4326171875,
 							"height": 73,
 							"nameLabel": {
@@ -189,9 +213,9 @@
 										"$ref": "AAAAAAGP6g/UhkI6Nig="
 									},
 									"font": "Arial;13;0",
-									"left": 274,
-									"top": 217,
-									"width": 263.72607421875,
+									"left": 262,
+									"top": 251,
+									"width": 294.09326171875,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -199,7 +223,7 @@
 										"$ref": "AAAAAAGP6g/Uh0I8fFQ="
 									},
 									"edgePosition": 1,
-									"text": "User Input (Sign-Up, Login, Create Room etc)"
+									"text": "<<User Input>> (Sign-Up, Login, Create Room etc)"
 								}
 							],
 							"font": "Arial;13;0",
@@ -210,7 +234,7 @@
 								"$ref": "AAAAAAGP6g+WA0Ibi4g="
 							},
 							"lineStyle": 2,
-							"points": "258:238;552:238",
+							"points": "258:272;560:272",
 							"nameLabel": {
 								"$ref": "AAAAAAGP6g/Uh0I92WM="
 							}
@@ -235,9 +259,9 @@
 										"$ref": "AAAAAAGP6hFPmUJGNSM="
 									},
 									"font": "Arial;13;0",
-									"left": 280,
-									"top": 160,
-									"width": 265.13525390625,
+									"left": 272,
+									"top": 296,
+									"width": 289.00244140625,
 									"height": 13,
 									"alpha": 4.341497208998391,
 									"distance": 19.313207915827967,
@@ -245,7 +269,7 @@
 										"$ref": "AAAAAAGP6hFPmkJIAfU="
 									},
 									"edgePosition": 1,
-									"text": "System Responses (Confirmation, Errors, etc)"
+									"text": "<<System Response>> (Confirmation, Errors, etc)"
 								}
 							],
 							"font": "Arial;13;0",
@@ -256,7 +280,7 @@
 								"$ref": "AAAAAAGP6g9+/0IQ9HA="
 							},
 							"lineStyle": 2,
-							"points": "552:184;258:184",
+							"points": "560:320;258:320",
 							"nameLabel": {
 								"$ref": "AAAAAAGP6hFPmkJJ56Y="
 							}
@@ -268,8 +292,8 @@
 								"$ref": "AAAAAAGP6g9nJUIK2+c="
 							},
 							"font": "Arial;26;0",
-							"left": 320,
-							"top": 56,
+							"left": 344,
+							"top": 104,
 							"width": 185,
 							"height": 90,
 							"text": "    Roomy       DFD Level 0"
@@ -282,7 +306,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGP6g9nJEIJhZU="
 					},
-					"name": "Roomy App",
+					"name": "<<System>> RoomyApp",
 					"ownedElements": [
 						{
 							"_type": "DFDDataFlow",
@@ -290,7 +314,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGP6g9+/kIOfzg="
 							},
-							"name": "System Responses (Confirmation, Errors, etc)",
+							"name": "<<System Response>> (Confirmation, Errors, etc)",
 							"source": {
 								"$ref": "AAAAAAGP6g9+/kIOfzg="
 							},
@@ -307,7 +331,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGP6g9nJEIJhZU="
 					},
-					"name": "User",
+					"name": "<<Actor>> User",
 					"ownedElements": [
 						{
 							"_type": "DFDDataFlow",
@@ -315,7 +339,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGP6g+WA0IZH88="
 							},
-							"name": "User Input (Sign-Up, Login, Create Room etc)",
+							"name": "<<User Input>> (Sign-Up, Login, Create Room etc)",
 							"source": {
 								"$ref": "AAAAAAGP6g+WA0IZH88="
 							},

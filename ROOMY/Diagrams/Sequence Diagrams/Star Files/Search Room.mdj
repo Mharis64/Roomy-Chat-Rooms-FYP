@@ -235,9 +235,12 @@
 													"_parent": {
 														"$ref": "AAAAAAGQSl+eupp1xSU="
 													},
-													"visible": false,
 													"font": "Arial;13;0",
-													"height": 13
+													"left": 413,
+													"top": 45,
+													"width": 72.09912109375,
+													"height": 13,
+													"text": "«System»"
 												},
 												{
 													"_type": "LabelView",
@@ -247,7 +250,7 @@
 													},
 													"font": "Arial;13;1",
 													"left": 413,
-													"top": 47,
+													"top": 60,
 													"width": 72.09912109375,
 													"height": 13,
 													"text": "RoomApp"
@@ -1736,6 +1739,7 @@
 								"$ref": "AAAAAAGQSl7TwZpANaY="
 							},
 							"name": "RoomApp",
+							"stereotype": "System",
 							"represent": {
 								"$ref": "AAAAAAGQSl+euppyI3s="
 							},
@@ -1770,8 +1774,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGQSl7TwZo/mjs="
 					},
-					"name": "Role2",
-					"type": ""
+					"name": "Role2"
 				}
 			]
 		}
